@@ -36,7 +36,7 @@ echo    • Контекстное меню для папок и дисков
 echo.
 echo =========================================================
 echo    Источник: http://steffengerlach.de/freeware/
-echo    GitHub: github.com/NaitSide
+echo    GitHub: github.com/NaitSide/Scanner_Installer
 echo =========================================================
 echo.
 pause

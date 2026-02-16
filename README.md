@@ -84,6 +84,14 @@ reg delete "HKCR\Drive\shell\Scan_Content" /f
 Scanner 2.13 - Freeware (© Steffen Gerlach)  
 Установщик - создан NaitSide
 
+---
+
+## 👨‍💻 Автор
+
+**NaitSide** · Telegram: [@something_on_the_smart](https://t.me/something_on_the_smart)
+
+---
+
 ## 🔗 Ссылки
 
 - [GitHub NaitSide](https://github.com/NaitSide)
@@ -91,6 +99,15 @@ Scanner 2.13 - Freeware (© Steffen Gerlach)
 
 ---
 
-## 👨‍💻 Автор
+## 📄 Лицензия
 
-**NaitSide** · Telegram channel: [@something_on_the_smart](https://t.me/something_on_the_smart)
+Скрипт распространяется "как есть" без гарантий.  
+Используйте на свой страх и риск.
+
+---
+
+## 💝 Поддержка
+
+Если скрипт помог — поставь ⭐ на GitHub!
+
+Нашёл баг или есть предложение? Открой Issue.
